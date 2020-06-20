@@ -1,0 +1,66 @@
+PROJECT SPECIFICATION
+Capstone: Real Estate Marketplace
+
+Project Deliverables
+
+CRITERIA
+MEETS SPECIFICATIONS
+Write Up
+
+Student includes a README to explain how to test their code.
+
+Write Up
+
+Student provides Contract Addresses, Contract Abi's, OpenSea MarketPlace Storefront link's.
+
+ERC721
+
+CRITERIA
+MEETS SPECIFICATIONS
+ERC721 Mintable Contract
+
+Student completes the boilerplate ERC721 Mintable Contract in ERC721Mintable.sol
+
+ERC721 Mintable Contract Test Cases
+
+Student writes and passes the test cases in TestERC721Mintable.js
+
+ERC721 Mintable Contract Zokrates Test
+
+Student writes and passes the test cases in 'TestSquareVerifier.js'
+
+ERC721 Mintable Contract Zokrates Test Cases
+
+Student writes and passes the test cases in TestSolnSquareVerifier.js
+
+Zokrates
+
+CRITERIA
+MEETS SPECIFICATIONS
+Zokrates program written using DSL
+
+Student completes the Zokrates proof in square.code by adding the variable names in square.code
+
+Zokrates Test Cases
+
+Student completes test contract in SolnSquareVerifier.sol
+
+Zokrates Test Cases
+
+Student writes and passes the test cases in 'TestSolnSquareVerifier.js'
+
+OpenSea Marketplace
+
+CRITERIA
+MEETS SPECIFICATIONS
+Market Place
+
+Student list ERC721/ ZoKrates tokens & complete transactions on market place
+
+Deployment
+
+CRITERIA
+MEETS SPECIFICATIONS
+Deployment
+
+Student deploys ERC721 contracts with Zokrates integration.
